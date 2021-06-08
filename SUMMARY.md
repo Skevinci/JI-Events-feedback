@@ -1,6 +1,6 @@
 # Table of contents
 
-* [JI 活动反馈通道](README.md)
+* [JI 学生会活动反馈通道](README.md)
 
 ## 传媒部
 
