@@ -28,9 +28,9 @@
 
 ## 社体部
 
-* [秋季“新生杯”](she-ti-bu/qiu-ji-xin-sheng-bei.md)
+* [新生辩论赛](she-ti-bu/qiu-ji-xin-sheng-bei.md)
 * [荧光夜跑](she-ti-bu/ying-guang-ye-pao.md)
-* [新生辩论赛](she-ti-bu/xin-sheng-bian-lun-sai.md)
+* [秋季“新生杯”](she-ti-bu/xin-sheng-bian-lun-sai.md)
 * [春季“密院杯”](she-ti-bu/chun-ji-mi-yuan-bei.md)
 * [其余机动活动](she-ti-bu/qi-yu-ji-dong-huo-dong.md)
 
