@@ -11,8 +11,6 @@
 ## 技术部
 
 * [系列Workshop](ji-shu-bu/xi-lie-workshop.md)
-* [新生开网指南](ji-shu-bu/xin-sheng-kai-wang-zhi-nan.md)
-* [各活动技术支持](ji-shu-bu/ge-huo-dong-ji-shu-zhi-chi.md)
 
 ## 联络部内联组 <a id="lian-luo-bu"></a>
 
