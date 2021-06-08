@@ -6,7 +6,7 @@
 
 * [各类Workshop](chuan-mei-bu/ge-lei-workshop.md)
 * [外拍活动](chuan-mei-bu/wai-pai-huo-dong.md)
-* [表情包/视频/征文大赛](chuan-mei-bu/biao-qing-bao-shi-pin-zheng-wen-da-sai.md)
+* [表情包大赛](chuan-mei-bu/biao-qing-bao-shi-pin-zheng-wen-da-sai.md)
 
 ## 技术部
 
