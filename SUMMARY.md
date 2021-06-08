@@ -1,6 +1,6 @@
 # Table of contents
 
-* [JI 活动反馈](README.md)
+* [JI 活动反馈通道](README.md)
 
 ## 传媒部
 
@@ -19,6 +19,7 @@
 * [院长见面会](lian-luo-bu/yuan-chang-jian-mian-hui.md)
 * [师生午餐会](lian-luo-bu/shi-sheng-wu-can-hui.md)
 * [女生节](lian-luo-bu/nv-sheng-jie.md)
+* [Piazza提案库](lian-luo-bu/piazza-ti-an-ku.md)
 
 ## 联络部外联组
 
